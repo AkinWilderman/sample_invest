@@ -1,1 +1,3 @@
-<?php include_once("../html/invest/index.html"); ?>
+<?php include_once('./html/invest/index.html'); 
+
+?>
